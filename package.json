@@ -1,0 +1,16 @@
+{
+  "name": "node-datastructures",
+  "description": "Various datastructures for use in Node.js and the browser",
+  "version": "0.0.1-1",
+  "author": "Emil Bay <melgaard@tixz.dk>",
+  "dependencies": {},
+  "keywords": [
+    "browser",
+    "datastructures"
+  ],
+  "main": "index",
+  "scripts": {
+    "prepublish" : "npm prune"
+  },
+  "engines": { "node": "*" }
+}
