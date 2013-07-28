@@ -1,7 +1,7 @@
 {
   "name": "node-datastructures",
   "description": "Various datastructures for use in Node.js and the browser",
-  "version": "0.0.1-3",
+  "version": "0.0.1-4",
   "author": "Emil Bay <melgaard@tixz.dk>",
   "repository": "https://github.com/tixz/node-datastructures.git",
   "dependencies": {},
